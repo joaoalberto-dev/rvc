@@ -1,1 +1,1 @@
-# RVC - Robot Vaccum Cleaner
+# RVC - Robot Vacuum Cleaner
